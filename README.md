@@ -1,10 +1,8 @@
-# CollectionBuilder-CSV
+# DHSI Demo
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
+This is a demo project for the first day of DHSI in which I will be develop a Collection Builder. 
 
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+-----------------------------------------------
 
 ## Brief Overview of Building a Collection
 
